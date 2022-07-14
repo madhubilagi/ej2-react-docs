@@ -112,8 +112,8 @@ ReactDOM.render(
                         type='Circular'
                         height='160px'
                         width='90%'
-                        trackThickness={80}
-                        progressThickness={10}
+                        trackThickness={10}
+                        progressThickness={80}
                         value={100}
                         enableRtl={false}
                         trackColor="#FFD939"
